@@ -1,13 +1,13 @@
 # Profile section
 profile:
-  first_name: Gilvan
-  last_name: Almeida
+  first_name: Rodrigo
+  last_name: Cabral
   picture: static/img/perfil.jpg # Local picture
   contact:
-    address_one: Rio de Janeiro, Brazil
+    address_one: São João de Meriti, Brasil
     address_two:
-    phone: +55 21 982689057
-  email: gilvan.praxedes@outlook.com
+    phone: +55 21 99390-3683
+  email: rodrigo.oliveiracabral@hotmail.com
   description: >
     I'm a bachelor's Computer Science, M.Sc. student at Military Institute of Engineering - IME/RJ, studying machine learning techniques, graduated in Computer Science at Centro Universitário Carioca - Unicarioca(2018). 
     I'm passionate about how technology can change the world, enthusiast about programming languages, process optimization, ETL and technologies in general. Trying to learn everything I can and apply it so I can help companies grow their business. If you have a project I can help with, please get in touch.
@@ -24,36 +24,28 @@ social:
 # Experience section
 experience:
   item0:
-    position: Software Analyst
+    position: Analista de Tesde de Software Jr.
     company: Radix Engenharia e Software
-    from: May 2019
+    from: Janeiro 2020
     to: Present
-    description: > 
+    description: >
     link: http://www.radixeng.com.br/
   item1:
-    position: Software Developer
-    company: BigData Corp.
-    from: February 2019
-    to: April 2019
+    position: Estagiario de Tesde e Qualidade de Software.
+    company: Radix Engenharia e Software.
+    from: Março 2019
+    to: Janeiro 2020
     description: >
       Development and administration of automated processes, API's to generate reports and business intelligence solutions. Services development based on cloud. Massive use of development based on cloud services, such as Amazon Web Services and Microsoft Azure.
-    link: https://bigdatacorp.com.br/
+    link: http://www.radixeng.com.br/
   item2:
-    position:  Software Developer Internship
-    company: BigData Corp.
-    from: September 2017
-    to: January 2019
+    position:  Estagio em Data Science
+    company: Mobi2Buy.
+    from: Junho 2019
+    to: Novembro 2019
     description: >
-      Development of automated processes to generate reports and business intelligence solutions. Services development based on cloud. Massive use of cloud services, such as Amazon Web Services (S3, SQS, EC2). 
-    link: https://bigdatacorp.com.br/
-  item3:
-    position: Developer Internship
-    company: Fiocruz
-    from: November 2014
-    to: September 2017
-    description: >
-      Member of the project's support and development team Institutional Repository of Fiocruz Arca, which stores the intellectual, scientific and academic production of the institution. Analysis, debugging, script development for the optimization of import and export records. Queries, update , dump and restore in the database.
-    link: https://portal.fiocruz.br/
+      Automação de Rotinas em Python e R , Criação de queries sql em Postgres/AWS.Redshift e Criação de rotinas com integração AWS.S3(Python/R).
+    link: https://mobi2buy.com/
 
 
 # Education section
@@ -93,7 +85,7 @@ tools:
     title: Docker
   item6:
     img: linux
-    title: Linux 
+    title: Linux
   item7:
     img: c-plus-plus-logo
     title: C++
@@ -121,7 +113,7 @@ tools:
   item15:
     img: github
     title: Git
-    
+
 extra_skills:
   - Flask
   - Web scraping and web automation
@@ -182,7 +174,7 @@ projects:
     github: https://gist.github.com/iamgilvan/06786c9ee39df937cbb04e895b0a5ab3
     tags: [Python, Matplotlib, Seaborn, Numpy, Pandas]
   item9:
-    title: Natural language processing 
+    title: Natural language processing
     subtitle: Natural language processing exercice
     description: " "
     github: https://gist.github.com/iamgilvan/2c28d243922980f9c91113da12951388
