@@ -51,18 +51,19 @@ experience:
 # Education section
 education:
   item1:
-    institution: Military Institute of Engineering - IME/RJ
-    program:  Master in System and Computing
-    description: Development, analysis and research of machine learning techniques.
-    from: February 2020
-    to: Present
-  item2:
     institution: Centro Universitário Carioca - Unicarioca/RJ
-    program: >
-      Bachelor's Degree in Computer Science
-    description: Computer/Information Technology Administration and Management
-    from: July 2013
-    to: December 2018
+    program:  Bacharel em Ciência da Computação
+    description: >
+      Junto com a faculdade participei de alguns cursos: Como "Tecnicas Avançadas em programação" voltado para competição de programação.
+    from: Fevereiro 2015
+    to: Dezembro 2019
+  item2:
+    institution: Colegio Ludolf Reis
+    program: Técnico em informática
+    description: >
+      Curso Voltado para Manutenção e Montagem de microcomputador
+    from: Janeiro 2012
+    to: Dezembro 2014
 
 # Skills section
 tools:
@@ -77,12 +78,6 @@ tools:
   item3:
     img: mysql-logo
     title: Mysql
-  item4:
-    img: angularjs
-    title: Angular
-  item5:
-    img: docker
-    title: Docker
   item6:
     img: linux
     title: Linux
@@ -104,34 +99,31 @@ tools:
   item12:
     img: postgreesql
     title: Postgreesql
-  item13:
-    img: sql
-    title: Sql
   item14:
     img: mongodb
     title: MongoDB
   item15:
     img: github
     title: Git
+  item16:
+    img: xbox-r
+    title: Rscript
 
 extra_skills:
   - Flask
   - Web scraping and web automation
-  - APIs and web development
-  - Unit Testing
-  - Problem Solving
+  - Desenvolvimento de APIs
+  - Testes Unitarios
   - Cloud Computing
-  - Analytical Skills
   - Scripting
   - DevOps
   - Machine learning
-  - Training and Development
 
 
 # Talks and workshops section
 workshops:
   item0:
-    event: AWS Innovate
+    event: SCRUM FOUNDATION PROFESSIONAL CERTIFICATE (SFPC)
     workshop: AWS Innovate Online Conference, January 2020.
     material:
     link: https://aws.amazon.com/pt/latam-pt-innovate/
