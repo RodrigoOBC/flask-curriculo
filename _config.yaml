@@ -14,11 +14,8 @@ profile:
 
 # Social section
 social:
-  github: https://github.com/iamgilvan
-  linkedin: https://www.linkedin.com/in/gilvan-almeida/
-  facebook: https://www.facebook.com/gilvan.praxedes
-  instagram: https://www.instagram.com/gilvanpraxedes/
-  medium: https://medium.com/@iamgilvan
+  github: https://github.com/RodrigoOBC
+  linkedin: https://www.linkedin.com/in/rodrigo-cabral-sfpc-0280b3121/
 
 
 # Experience section
@@ -124,14 +121,19 @@ extra_skills:
 workshops:
   item0:
     event: SCRUM FOUNDATION PROFESSIONAL CERTIFICATE (SFPC)
-    workshop: AWS Innovate Online Conference, January 2020.
+    workshop: ""
     material:
-    link: https://aws.amazon.com/pt/latam-pt-innovate/
+    link: https://www.docdroid.net/Qyb9fMy/certificate-rodrigo-cabral-pdf
   item1:
-    event: AWS Innovate Machine Learning & AI Edition
-    workshop: AWS Innovate Online Conference, January 2020.
+    event: O curso completo de Banco de Dados e SQL, sem mistérios!
+    workshop: ""
     material:
-    link: https://aws.amazon.com/pt/events/aws-innovate/machine-learning/
+    link: https://www.udemy.com/certificate/UC-T4IHAOR1/
+  item2:
+    event: "Python: Programação Orientada a Objetos com Python 3"
+    workshop: ""
+    material:
+    link: https://www.udemy.com/certificate/UC-BVO7Y921/
 
 # Projects section
 projects:
