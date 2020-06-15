@@ -2,15 +2,14 @@
 profile:
   first_name: Rodrigo
   last_name: Cabral
-  picture: static/img/perfil.jpg # Local picture
+  picture: static/img/perfil.png # Local picture
   contact:
     address_one: São João de Meriti, Brasil
     address_two:
     phone: +55 21 99390-3683
   email: rodrigo.oliveiracabral@hotmail.com
   description: >
-    I'm a bachelor's Computer Science, M.Sc. student at Military Institute of Engineering - IME/RJ, studying machine learning techniques, graduated in Computer Science at Centro Universitário Carioca - Unicarioca(2018). 
-    I'm passionate about how technology can change the world, enthusiast about programming languages, process optimization, ETL and technologies in general. Trying to learn everything I can and apply it so I can help companies grow their business. If you have a project I can help with, please get in touch.
+    Olá, bem-vindo ao meu currículo! Sou Bacharel em Ciência da Computação, Unicarioca(2019.2). Sou apaixonado por novas tecnologias. Tenho 2 anos de experiencias, tenho conhecimento médio em programação backend, conhecimento avançado em banco de dados relacionais, como por exemplo "Postgres, mysql, sqlServer entre outros".Tenho conhecimento em IA, tema esse do meu TCC.
 
 # Social section
 social:
@@ -25,7 +24,7 @@ experience:
     company: Radix Engenharia e Software
     from: Janeiro 2020
     to: Present
-    description: >
+    description: Composição de "Casos de Teste", Composição de "Planos de Teste", Execução de "Roteiro de Teste", Criação de "Casos de Teste" em BDDs, Automatização dos casos de API. Multiplas linguagens, Automatização dos casos de teste, escritos em BDD com Gauge
     link: http://www.radixeng.com.br/
   item1:
     position: Estagiario de Tesde e Qualidade de Software.
@@ -33,7 +32,7 @@ experience:
     from: Março 2019
     to: Janeiro 2020
     description: >
-      Development and administration of automated processes, API's to generate reports and business intelligence solutions. Services development based on cloud. Massive use of development based on cloud services, such as Amazon Web Services and Microsoft Azure.
+      Composição de "Casos de Teste", Composição de "Planos de Teste", Execução de "Roteiro de Teste", Criação de "Casos de Teste" em BDDs, Automatização dos casos de API. Multiplas linguagens, Automatização dos casos de teste, escritos em BDD com Gauge
     link: http://www.radixeng.com.br/
   item2:
     position:  Estagio em Data Science
@@ -134,6 +133,21 @@ workshops:
     workshop: ""
     material:
     link: https://www.udemy.com/certificate/UC-BVO7Y921/
+  item3:
+      event: "Linguagem de Programação C# - Básico"
+      workshop: ""
+      material:
+      link: https://i.ibb.co/JdmjTrj/Certificado-Bradesco-Csharp.jpg
+  item4:
+      event: "IMPLEMENTANDO BANCOS DE DADOS"
+      workshop: ""
+      material:
+      link: https://ibb.co/1vB67fQ
+  item5:
+    event: "The Complete Python 3 Course: Go from Beginner to Advanced!"
+    workshop: ""
+    material:
+    link: https://www.udemy.com/certificate/UC-UOPDZORR/
 
 # Projects section
 projects:
@@ -141,36 +155,30 @@ projects:
     title: flask resume template
     subtitle: A resume template built with Flask
     description: An easy-to-configure simple resume template built with Flask and Bootstrap.
-    github: https://github.com/iamgilvan/flask-resume
+    github: https://github.com/RodrigoOBC/flask-resume/tree/Rodrigo_Cabral
     tags: [Flask, Python, Bootstrap]
   item3:
-    title: TDD Python Example
-    subtitle: Unit Test
-    description: Unit test example development in python
-    github: https://github.com/iamgilvan/tdd-python-example
-    tags: [Python, Unit Test, PyTest]
+    title: Programas-Simples
+    subtitle: Programas feitos em python
+    description: ""
+    github: https://github.com/RodrigoOBC/Programas-Simples
+    tags: [Python]
   item4:
-    title: Conversions of currencies
-    subtitle: Conversions between different currencies
-    description: The main objective of this API developed in Python, is to make conversions between different currencies with real and current quotes.
-    github: https://github.com/iamgilvan/challenger-bravo
-    tags: [Python, Flask, MongoDb, Heroku]
+    title: Servidor de chat
+    subtitle: Servidor de chat em Python
+    description: Um siples sistema que simula um "servidor de chat", com a visão cliente e servidor
+    github: https://github.com/RodrigoOBC/chat_servidor
+    tags: [Python]
   item6:
-    title: Airbnb Predict Price
-    subtitle: Investigating Airbnb activity in Berlin, Germany
+    title: Teclado Virtual Atualizado APS
+    subtitle: Trabalho da Materia de POO
     description: ""
-    github: https://gist.github.com/iamgilvan/73e2fc5864e4b3dd3c515028d114c488
-    tags: [Python, Scikit-Learn, Matplotlib, Seaborn, Numpy, Pandas, Decision Tree Regressor]
+    github: https://github.com/RodrigoOBC/Teclado-Virtual-Atualizado-APS
+    tags: [ Java ]
+
   item7:
-    title: Airbnb Predict Demands
-    subtitle: Investigating Airbnb activity in Berlin, Germany
-    description: ""
-    github: https://gist.github.com/iamgilvan/06786c9ee39df937cbb04e895b0a5ab3
-    tags: [Python, Matplotlib, Seaborn, Numpy, Pandas]
-  item9:
-    title: Natural language processing
-    subtitle: Natural language processing exercice
-    description: " "
-    github: https://gist.github.com/iamgilvan/2c28d243922980f9c91113da12951388
-    img: simple-omnitrix.png
-    tags: [Python, Pandas, Scikit-Learn, Nltk]
+      title: INTELIGÊNCIA ARTIFICIAL APLICADA NA ANÁLISE DE RISCO PARA SEGUROS DE VIDA
+      subtitle: TCC Ciência da Computação
+      description: ""
+      github: https://github.com/RodrigoOBC/Teclado-Virtual-Atualizado-APS
+      tags: [Flask, Python, Bootstrap]
