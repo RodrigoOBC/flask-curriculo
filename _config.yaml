@@ -147,15 +147,15 @@ workshops:
     material:
     link: https://www.udemy.com/certificate/UC-BVO7Y921/
   item3:
-      event: "Linguagem de Programação C# - Básico"
-      workshop: ""
-      material:
-      link: https://i.ibb.co/JdmjTrj/Certificado-Bradesco-Csharp.jpg
+    event: "Linguagem de Programação C# - Básico"
+    workshop: ""
+    material:
+    link: https://i.ibb.co/JdmjTrj/Certificado-Bradesco-Csharp.jpg
   item4:
-      event: "IMPLEMENTANDO BANCOS DE DADOS"
-      workshop: ""
-      material:
-      link: https://ibb.co/1vB67fQ
+    event: "IMPLEMENTANDO BANCOS DE DADOS"
+    workshop: ""
+    material:
+    link: https://ibb.co/1vB67fQ
   item5:
     event: "The Complete Python 3 Course: Go from Beginner to Advanced!"
     workshop: ""
@@ -170,28 +170,37 @@ projects:
     description: An easy-to-configure simple resume template built with Flask and Bootstrap.
     github: https://github.com/RodrigoOBC/flask-resume/tree/Rodrigo_Cabral
     tags: [Flask, Python, Bootstrap]
-  item3:
+  item2:
     title: Programas-Simples
     subtitle: Programas feitos em python
     description: ""
     github: https://github.com/RodrigoOBC/Programas-Simples
     tags: [Python]
-  item4:
+  item3:
     title: Servidor de chat
     subtitle: Servidor de chat em Python
     description: Um siples sistema que simula um "servidor de chat", com a visão cliente e servidor
     github: https://github.com/RodrigoOBC/chat_servidor
     tags: [Python]
-  item6:
+  item4:
     title: Teclado Virtual Atualizado APS
     subtitle: Trabalho da Materia de POO
     description: ""
     github: https://github.com/RodrigoOBC/Teclado-Virtual-Atualizado-APS
     tags: [ Java ]
 
-  item7:
-      title: INTELIGÊNCIA ARTIFICIAL APLICADA NA ANÁLISE DE RISCO PARA SEGUROS DE VIDA
-      subtitle: TCC Ciência da Computação
-      description: ""
-      github: https://github.com/RodrigoOBC/Teclado-Virtual-Atualizado-APS
-      tags: [Flask, Python, Bootstrap]
+  item5:
+    title: INTELIGÊNCIA ARTIFICIAL APLICADA NA ANÁLISE DE RISCO PARA SEGUROS DE VIDA
+    subtitle: TCC Ciência da Computação
+    description: ""
+    github: https://github.com/RodrigoOBC/Teclado-Virtual-Atualizado-APS
+    tags: [Flask, Python, Bootstrap]
+
+  item6:
+    title: Desafio B2w
+    subtitle: Desafio Star Wars
+    description: ""
+    github: https://github.com/RodrigoOBC/desafio_b2w
+    tags: [Flask, Python, Postman]
+
+
