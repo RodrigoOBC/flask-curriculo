@@ -20,14 +20,14 @@ social:
 # Experience section
 experience:
   item0:
-    position: Analista de Tesde de Software Jr.
+    position: Analista de Teste de Software Jr.
     company: Radix Engenharia e Software
     from: Janeiro 2020
     to: Present
     description: Composição de "Casos de Teste", Composição de "Planos de Teste", Execução de "Roteiro de Teste", Criação de "Casos de Teste" em BDDs, Automatização dos casos de API. Multiplas linguagens, Automatização dos casos de teste, escritos em BDD com Gauge
     link: http://www.radixeng.com.br/
   item1:
-    position: Estagiario de Tesde e Qualidade de Software.
+    position: Estagiario de Teste e Qualidade de Software.
     company: Radix Engenharia e Software.
     from: Março 2019
     to: Janeiro 2020
@@ -47,13 +47,26 @@ experience:
 # Education section
 education:
   item1:
+    institution: Pontifícia Universidade Católica de Minas Gerais - PUC MINAS EAD
+    program: Pós-Graduação em Ciência de Dados e BigData
+    description: >
+      Pós-Graduação em Ciência de Dados e BigData, areá que mais cresce no mercado (Nacional/internacional).
+    from: Agosto 2020
+    to: Dezembro 2021
+  item2:
+    institution: YES! Idiomas
+    program: Curso de inglês
+    description: >
+    from: Janeiro 2020
+    to: Ainda sem data final
+  item3:
     institution: Centro Universitário Carioca - Unicarioca/RJ
     program:  Bacharel em Ciência da Computação
     description: >
       Junto com a faculdade participei de alguns cursos: Como "Tecnicas Avançadas em programação" voltado para competição de programação.
     from: Fevereiro 2015
     to: Dezembro 2019
-  item2:
+  item4:
     institution: Colegio Ludolf Reis
     program: Técnico em informática
     description: >
