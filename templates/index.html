@@ -12,7 +12,6 @@
 
     <title>Hi! I'm {{ data.profile.first_name }} {{ data.profile.last_name }}!
         | {{ data.profile.first_name }} {{ data.profile.last_name }}</title>
-
     <!-- Bootstrap core CSS -->
     <link href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
 
@@ -25,6 +24,8 @@
     <!-- Custom styles for this template -->
     <link href="{{ url_for('static', filename='css/resume.css') }}" rel="stylesheet">
     <link rel="shortcut icon" href="https://avatars3.githubusercontent.com/u/36435547" type="image/x-icon">
+
+
 
 </head>
 
@@ -60,6 +61,11 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#projects">Projetos</a>
+            </li>
+            <li>
+                <a class="nav-link js-scroll-trigger" href={{ data.Curriculo.item0.link }}>
+                <i><img data-toggle="tooltip" src="https://img.icons8.com/office/80/000000/pdf.png"/> </i>
+                </a>
             </li>
         </ul>
     </div>

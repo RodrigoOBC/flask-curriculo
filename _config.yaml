@@ -129,6 +129,11 @@ extra_skills:
   - Machine learning
 
 
+Curriculo:
+  item0:
+    link: static/Curriculo/Curriculo2020.pdf
+    picture: static/img/pdf.png
+
 # Talks and workshops section
 workshops:
   item0:
