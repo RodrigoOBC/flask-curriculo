@@ -188,11 +188,11 @@ projects:
     github: https://github.com/RodrigoOBC/chat_servidor
     tags: [Python]
   item4:
-    title: Teclado Virtual Atualizado APS
-    subtitle: Trabalho da Materia de POO
+    title: API Star Wars Nodejs
+    subtitle: Desafio API Star Wars
     description: ""
-    github: https://github.com/RodrigoOBC/Teclado-Virtual-Atualizado-APS
-    tags: [ Java ]
+    github: https://github.com/RodrigoOBC/API_star_wars_nodjs
+    tags: [ Nodejs, MongoDB ]
 
   item5:
     title: INTELIGÊNCIA ARTIFICIAL APLICADA NA ANÁLISE DE RISCO PARA SEGUROS DE VIDA
