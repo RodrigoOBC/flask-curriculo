@@ -14,7 +14,7 @@ profile:
 # Social section
 social:
   github: https://github.com/RodrigoOBC
-  linkedin: https://www.linkedin.com/in/rodrigo-cabral-sfpc-0280b3121/
+  linkedin: https://www.linkedin.com/in/rodrigo-cabral-0280b3121/
 
 
 # Experience section
@@ -37,8 +37,8 @@ experience:
   item2:
     position:  Estagio em Data Science
     company: Mobi2Buy.
-    from: Junho 2019
-    to: Novembro 2019
+    from: Janeiro 2018
+    to: Dezembro 2018
     description: >
       Automação de Rotinas em Python e R , Criação de queries sql em Postgres/AWS.Redshift e Criação de rotinas com integração AWS.S3(Python/R).
     link: https://mobi2buy.com/
