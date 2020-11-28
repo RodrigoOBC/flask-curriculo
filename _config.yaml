@@ -212,6 +212,6 @@ projects:
     title: Algoritmos de marchine Learning
     subtitle: Algoritmos de marchine Learning
     description: "Alguns algoritimos de Marching Learning, desde os mais simples até mais avançados"
-    github: https://github.com/RodrigoOBC/desafio_b2w
+    github: https://github.com/RodrigoOBC/Notebook_MarcineLearning
     tags: [ Python, Jupyter Notebook]
 
