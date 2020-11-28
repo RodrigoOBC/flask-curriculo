@@ -208,4 +208,10 @@ projects:
     github: https://github.com/RodrigoOBC/desafio_b2w
     tags: [Flask, Python, Postman]
 
+  item7:
+    title: Algoritmos de marchine Learning
+    subtitle: Algoritmos de marchine Learning
+    description: "Alguns algoritimos de Marching Learning, desde os mais simples até mais avançados"
+    github: https://github.com/RodrigoOBC/desafio_b2w
+    tags: [ Python, Jupyter Notebook]
 
