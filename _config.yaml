@@ -9,7 +9,7 @@ profile:
     phone: +55 21 99390-3683
   email: rodrigo.oliveiracabral@hotmail.com
   description: >
-    Olá, bem-vindo ao meu currículo! Sou Bacharel em Ciência da Computação, Unicarioca(2019.2). Sou apaixonado por novas tecnologias. Tenho 2 anos de experiência, tenho conhecimento médio em programação backend, conhecimento avançado em banco de dados relacionais, como por exemplo "Postgres, mysql, sqlServer entre outros".Tenho conhecimento em IA, tema esse do meu TCC.
+    Olá, bem-vindo ao meu currículo! Sou Bacharel em Ciência da Computação, Unicarioca(2019.2). Sou Pós-Graduando em Ciencia de Dados e BigData pela PUC MINAS EAD . Tenho 3 anos de experiência, tenho conhecimento médio em programação backend, conhecimento avançado em banco de dados relacionais, como por exemplo: "Postgres, mysql e sqlServer".
 
 # Social section
 social:
@@ -57,6 +57,7 @@ education:
     institution: YES! Idiomas
     program: Curso de inglês
     description: >
+      3° Semestre
     from: Janeiro 2020
     to: Ainda sem data final
   item3:
@@ -170,17 +171,17 @@ workshops:
 # Projects section
 projects:
   item1:
-    title: flask resume template
-    subtitle: A resume template built with Flask
-    description: An easy-to-configure simple resume template built with Flask and Bootstrap.
+    title: Currículo Lattes
+    subtitle: Currículo Lattes feito em flask
+    description: ""
     github: https://github.com/RodrigoOBC/flask-resume/tree/Rodrigo_Cabral
     tags: [Flask, Python, Bootstrap]
   item2:
-    title: Programas-Simples
-    subtitle: Programas feitos em python
+    title: ReconhecimentoFacial
+    subtitle: Algoritimos de Reconhecimento Facial
     description: ""
-    github: https://github.com/RodrigoOBC/Programas-Simples
-    tags: [Python]
+    github: https://github.com/RodrigoOBC/ReconhecimentoFacial
+    tags: [Python, jupyter]
   item3:
     title: Servidor de chat
     subtitle: Servidor de chat em Python
@@ -189,7 +190,7 @@ projects:
     tags: [Python]
   item4:
     title: API Star Wars Nodejs
-    subtitle: Desafio API Star Wars
+    subtitle: API Star Wars em NodeJs
     description: ""
     github: https://github.com/RodrigoOBC/API_star_wars_nodjs
     tags: [ Nodejs, MongoDB ]
@@ -202,8 +203,8 @@ projects:
     tags: [Flask, Python, Bootstrap]
 
   item6:
-    title: Desafio B2w
-    subtitle: Desafio Star Wars
+    title: Api_star_wars_flask
+    subtitle: Api Star Wars em Flask
     description: ""
     github: https://github.com/RodrigoOBC/desafio_b2w
     tags: [Flask, Python, Postman]
