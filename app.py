@@ -14,8 +14,9 @@ def index():
 
 
 @app.route('/certificadoTDCOnline2021Innovationpdf')
-def index():
+def nada():
     return "static/certificados/certificadoTDCOnline2021Innovation.pdf"
 
+
 if __name__ == '__main__':
-    app.run(port=5000,debug=True)
+    app.run(port=5000, debug=True)
