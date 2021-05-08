@@ -13,5 +13,9 @@ def index():
     return render_template('index.html', data=website_data)
 
 
+@app.route('/certificadoTDCOnline2021Innovationpdf')
+def index():
+    return "static/certificados/certificadoTDCOnline2021Innovation.pdf"
+
 if __name__ == '__main__':
     app.run(port=5000,debug=True)
