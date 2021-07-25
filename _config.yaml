@@ -35,7 +35,7 @@ experience:
       Composição de "Casos de Teste", Composição de "Planos de Teste", Execução de "Roteiro de Teste", Criação de "Casos de Teste" em BDDs, Automatização dos casos de API. Multiplas linguagens, Automatização dos casos de teste, escritos em BDD com Gauge
     link: http://www.radixeng.com.br/
   item2:
-    position:  Estagio em Data Science
+    position: Estagio em Data Science
     company: Mobi2Buy.
     from: Janeiro 2018
     to: Dezembro 2018
@@ -62,7 +62,7 @@ education:
     to: Ainda sem data final
   item3:
     institution: Centro Universitário Carioca - Unicarioca/RJ
-    program:  Bacharel em Ciência da Computação
+    program: Bacharel em Ciência da Computação
     description: >
       Junto com a faculdade participei de alguns cursos: Como "Tecnicas Avançadas em programação" voltado para competição de programação.
     from: Fevereiro 2015
@@ -175,19 +175,19 @@ projects:
     subtitle: Currículo Lattes feito em flask
     description: ""
     github: https://github.com/RodrigoOBC/flask-resume/tree/Rodrigo_Cabral
-    tags: [Flask, Python, Bootstrap]
+    tags: [ Flask, Python, Bootstrap ]
   item2:
-    title: ReconhecimentoFacial
-    subtitle: Algoritimos de Reconhecimento Facial
-    description: ""
-    github: https://github.com/RodrigoOBC/ReconhecimentoFacial
-    tags: [Python, jupyter]
+    title: Notebooks Redes Neurais
+    subtitle: Notebooks com Redes Neurais Artificiais
+    description: "Uma serie de Notebooks com Redes neurais"
+    github: https://github.com/RodrigoOBC/Notebooks_RedesNeurais
+    tags: [ Python, jupyter, TensorFlow ]
   item3:
     title: Servidor de chat
     subtitle: Servidor de chat em Python
     description: Um siples sistema que simula um "servidor de chat", com a visão cliente e servidor
     github: https://github.com/RodrigoOBC/chat_servidor
-    tags: [Python]
+    tags: [ Python ]
   item4:
     title: API Star Wars Nodejs
     subtitle: API Star Wars em NodeJs
@@ -199,23 +199,28 @@ projects:
     subtitle: Framework Playwright com Python-BDD
     description: "Para o projeto foram utilizados as linguagem Python na sua versão 3.8 (compativel da 3.7 ou +), Playwright 1.10.0 e também o Behave para escrita dos BDDs."
     github: https://github.com/RodrigoOBC/playwright_Behave_python
-    tags: [Playwright, Python, Behave]
+    tags: [ Playwright, Python, Behave ]
   item6:
     title: Api Star Wars em Flask
     subtitle: Api Star Wars em Flask
     description: ""
     github: https://github.com/RodrigoOBC/desafio_b2w
-    tags: [Flask, Python, Postman]
+    tags: [ Flask, Python, Postman ]
   item7:
-    title: Algoritmos de marchine Learning
-    subtitle: Algoritmos de marchine Learning
-    description: "Alguns algoritimos de Marching Learning, desde os mais simples até mais avançados"
-    github: https://github.com/RodrigoOBC/Notebook_MarcineLearning
-    tags: [ Python, Jupyter, Notebook]
-  item8:
     title: Framework Ruby com Capybara-BDD
     subtitle: Framework Ruby com Capybara-BDD
     description: ""
     github: https://github.com/RodrigoOBC/Ruby_BDD_Capybara
-    tags: [ Ruby, Capybara]
-
+    tags: [ Ruby, Capybara ]
+  item8:
+    title: FrameWork Selenium Python-BDD
+    subtitle: FrameWork Selenium Python-BDD
+    description: ""
+    github: https://github.com/RodrigoOBC/FrameWorkSeleniumPythonBDD
+    tags: [ Python, Selenium ]
+  item9:
+      title: FrameWork Playwright Behave Python
+      subtitle: FrameWork Playwright Python-BDD
+      description: ""
+      github: https://github.com/RodrigoOBC/playwright_Behave_python
+      tags: [ Python, Playwright ]
