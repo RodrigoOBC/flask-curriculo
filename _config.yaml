@@ -219,8 +219,8 @@ projects:
     github: https://github.com/RodrigoOBC/FrameWorkSeleniumPythonBDD
     tags: [ Python, Selenium ]
   item9:
-      title: FrameWork Playwright Behave Python
-      subtitle: FrameWork Playwright Python-BDD
+      title: Desafio Livelo
+      subtitle: Desafio Livelo
       description: ""
-      github: https://github.com/RodrigoOBC/playwright_Behave_python
-      tags: [ Python, Playwright ]
+      github: https://github.com/RodrigoOBC/desafio_livelo
+      tags: [ Python, Selenium, Behave, BDD ]
