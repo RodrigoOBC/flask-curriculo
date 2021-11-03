@@ -9,7 +9,7 @@ profile:
     phone: +55 21 99390-3683
   email: rodrigo.oliveiracabral@hotmail.com
   description: >
-    Olá, bem-vindo ao meu currículo! Sou Bacharel em Ciência da Computação, Unicarioca(2019.2). Sou Pós-Graduando em Ciencia de Dados e BigData pela PUC MINAS EAD . Tenho 3 anos de experiência, tenho conhecimento médio em programação backend, conhecimento avançado em banco de dados relacionais, como por exemplo: "Postgres, mysql e sqlServer".
+    Olá, bem-vindo ao meu currículo! Sou Bacharel em Ciência da Computação, Unicarioca(2019.2). Sou Pós-Graduando em Ciência de Dados e BigData pela PUC MINAS EAD. Durante 4 anos de experiência, obtive conhecimentos em desenvolvimento Backend, utilizando diversas linguagens de programação como, por exemplo: Python, NodeJS e também C#. Tenho conhecimento intermediário em Banco de dados, tendo atuado mais com: Postgressql e MySql.
 
 # Social section
 social:
@@ -86,6 +86,12 @@ tools:
     img: python
     title: Python
   item3:
+    img: nodejs
+    title: Nodejs
+  item4:
+    img: tensorflow
+    title: Tensorflow
+  item5:
     img: mysql-logo
     title: Mysql
   item6:
@@ -118,6 +124,10 @@ tools:
   item16:
     img: xbox-r
     title: Rscript
+  item17:
+    img: selenium
+    title: Selenium
+
 
 extra_skills:
   - Flask
@@ -128,6 +138,7 @@ extra_skills:
   - Scripting
   - DevOps
   - Machine learning
+  - Neural Networking(RNA ou CNN)
 
 
 Curriculo:
