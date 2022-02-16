@@ -9,7 +9,7 @@ profile:
     phone: +55 21 99390-3683
   email: rodrigo.oliveiracabral@hotmail.com
   description: >
-    Olá, bem-vindo ao meu currículo! Sou Bacharel em Ciência da Computação, Unicarioca(2019.2). Sou Pós-Graduando em Ciência de Dados e BigData pela PUC MINAS EAD. Durante 4 anos de experiência, obtive conhecimentos em desenvolvimento Backend, utilizando diversas linguagens de programação como, por exemplo: Python, NodeJS e também C#. Tenho conhecimento intermediário em Banco de dados, tendo atuado mais com: Postgressql e MySql.
+    Hello, welcome to my resume! I am a Bachelor of Computer Science, Unicarioca(2019.2). I am a Graduate Student in Data Science and BigData at PUC MINAS EAD. During 4 years of experience, I gained knowledge in Backend development, manual and automated tests. During this walk I used several programming languages such as: Python, NodeJS and also C#. I have intermediate knowledge in Database, having worked more with: Postgressql and MySql.
 
 # Social section
 social:
@@ -20,27 +20,55 @@ social:
 # Experience section
 experience:
   item0:
-    position: Analista de Teste de Software Jr.
+    position: Software QA Pl
     company: Radix Engenharia e Software
-    from: Janeiro 2020
+    from: January 2022
     to: Present
-    description: Composição de "Casos de Teste", Composição de "Planos de Teste", Execução de "Roteiro de Teste", Criação de "Casos de Teste" em BDDs, Automatização dos casos de API. Multiplas linguagens, Automatização dos casos de teste, escritos em BDD com Gauge
+    description: >
+      Composition of "Test Cases";
+      Composition of "Test Plans";
+      Execution of "Test Script";
+      Creation of "Test Cases" in BDDs;
+      Automation of multi-language API cases;
+      Automation of test cases written in BDD with Gauge;
+      Automation with Selenium and Python or NodeJS;
+      Automation with Cypress, Protractor, Playwright, and Puppeteer;
+      Technical mentoring achievements.
     link: http://www.radixeng.com.br/
   item1:
-    position: Estagiario de Teste e Qualidade de Software.
-    company: Radix Engenharia e Software.
-    from: Março 2019
-    to: Janeiro 2020
+    position: Software QA Jr
+    company: Radix Engenharia e Software
+    from: January 2020
+    to: December 2021
     description: >
-      Composição de "Casos de Teste", Composição de "Planos de Teste", Execução de "Roteiro de Teste", Criação de "Casos de Teste" em BDDs, Automatização dos casos de API. Multiplas linguagens, Automatização dos casos de teste, escritos em BDD com Gauge
+      Composition of "Test Cases";
+      Composition of "Test Plans";
+      Execution of "Test Script";
+      Creation of "Test Cases" in BDDs;
+      Automation of multi-language API cases;
+      Automation of test cases written in BDD with Gauge;
+      Automation with Selenium and Python or NodeJS;
+      Automation with Cypress, Protractor, Playwright, and Puppeteer;
     link: http://www.radixeng.com.br/
   item2:
-    position: Estagio em Data Science
-    company: Mobi2Buy.
-    from: Janeiro 2018
-    to: Dezembro 2018
+    position: Software QA Intern
+    company: Radix Engenharia e Software.
+    from: March 2019
+    to: January 2020
     description: >
-      Automação de Rotinas em Python e R , Criação de queries sql em Postgres/AWS.Redshift e Criação de rotinas com integração AWS.S3(Python/R).
+      Composition of "Test Cases" Composition of "Test Plans" ;
+      Execution of "Test Script" ;
+      Creation of "Test Cases" in BDDs ;
+      Automation of multi-language API cases ;
+      Automation of test cases written in BDD with Gauge;
+    link: http://www.radixeng.com.br/
+  item3:
+    position: Data Science Intern
+    company: Mobi2Buy.
+    from: January 2018
+    to: December 2018
+    description: >
+      Routine Automation in Python Routine Automation in R Creating sql queries in Postgres / AWS.Redshift Creating routines with integration AWS.S3 (Python / R)
     link: https://mobi2buy.com/
 
 
@@ -48,32 +76,29 @@ experience:
 education:
   item1:
     institution: Pontifícia Universidade Católica de Minas Gerais - PUC MINAS EAD
-    program: Pós-Graduação em Ciência de Dados e BigData
-    description: >
-      Pós-Graduação em Ciência de Dados e BigData, areá que mais cresce no mercado (Nacional/internacional).
-    from: Agosto 2020
-    to: Dezembro 2021
+    program: Postgraduate in Data Science and BigData
+    description:
+    from: August 2020
+    to: March 2022
   item2:
     institution: YES! Idiomas
     program: Curso de inglês
     description: >
-      3° Semestre
-    from: Janeiro 2020
-    to: Ainda sem data final
+      5° Semestre
+    from: January 2020
+    to: No end date
   item3:
     institution: Centro Universitário Carioca - Unicarioca/RJ
-    program: Bacharel em Ciência da Computação
+    program: Bachelor in Computer Science
     description: >
-      Junto com a faculdade participei de alguns cursos: Como "Tecnicas Avançadas em programação" voltado para competição de programação.
-    from: Fevereiro 2015
-    to: Dezembro 2019
+    from: February 2015
+    to: December 2019
   item4:
     institution: Colegio Ludolf Reis
-    program: Técnico em informática
+    program: Computer Technician
     description: >
-      Curso Voltado para Manutenção e Montagem de microcomputador
-    from: Janeiro 2012
-    to: Dezembro 2014
+    from: January 2012
+    to: December 2014
 
 # Skills section
 tools:
@@ -143,7 +168,7 @@ extra_skills:
 
 Curriculo:
   item0:
-    link: static/Curriculo/Curriculo2020.pdf
+    link: static/Curriculo/Curriculo_Rodrigo_Cabral.pdf
     picture: static/img/pdf.png
 
 # Talks and workshops section
