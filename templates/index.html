@@ -60,6 +60,9 @@
                 <a class="nav-link js-scroll-trigger" href="#workshops">Cousers</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="#article">Articles</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
             </li>
             <li>
@@ -190,6 +193,8 @@
         </div>
     </section>
 
+
+
     <hr class="m-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="workshops">
@@ -227,6 +232,42 @@
             {% endif %}
         </div>
     </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="article">
+        <div class="w-100">
+
+            <h2 class="mb-5">Articles</h2>
+            <p>My Articles scientific and no scientific</p>
+            <ul class="fa-ul mb-0">
+            {% for _, item in data.Artigos.items() %}
+                <li>
+                        {% if _ != 'reference' %}
+                            <i class="fa-li fa fa-shapes text-info"></i>
+                            <strong>{{ item.name }}</strong>
+                            {% if item.link != None %}
+                                <sup><a href='{{ item.link }}' target="_blank" class="badge badge-pill badge-danger">
+                                    Certificado site <i class="fa fa-external-link-alt text-light"></i>
+                                </a></sup>
+                            {% endif %}
+                            <br> {{ item.Artigos }}
+                        {% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+            {% if 'reference' in data.Artigos.keys() %}
+                <br><br>
+                <p>(More talks have happened between those dates <i>–most of them about AI–</i>, I'm only adding the
+                    most relevant ones in that period of time.)</p>
+                <p>For a detailed reference about this section, please visit <a href="{{ data.Artigos.reference }}"
+                                                                                target="_blank">this link</a>.</p>
+            {% endif %}
+        </div>
+
+
+    </section>
+
 
     <hr class="m-0">
 

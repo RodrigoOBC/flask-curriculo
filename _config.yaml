@@ -164,6 +164,8 @@ extra_skills:
   - DevOps
   - Machine learning
   - Neural Networking(RNA ou CNN)
+  - k6
+  - Playwright
 
 
 Curriculo:
@@ -171,6 +173,13 @@ Curriculo:
     link: static/Curriculo/Curriculo_Rodrigo_Cabral.pdf
     picture: static/img/pdf.png
 
+Artigos:
+  item0:
+    link: https://medium.com/@rodrigo.oliveiracabral/playwright-cucumber-com-page-object-4c4b8d67a8c
+    name: Playwright + Cucumber com Page Object
+  item1:
+    link: https://medium.com/@rodrigo.oliveiracabral/teste-de-integra%C3%A7%C3%A3o-com-k6-10a5f3912e75
+    name: Teste de Integração com k6
 # Talks and workshops section
 workshops:
   item0:
@@ -225,11 +234,11 @@ projects:
     github: https://github.com/RodrigoOBC/chat_servidor
     tags: [ Python ]
   item4:
-    title: API Star Wars Nodejs
-    subtitle: API Star Wars em NodeJs
+    title: Test de integração de API com K6
+    subtitle: Test de integração de API com K6
     description: ""
-    github: https://github.com/RodrigoOBC/API_star_wars_nodjs
-    tags: [ Nodejs, MongoDB ]
+    github: https://github.com/RodrigoOBC/Test-API-K6
+    tags: [ Nodejs, K6 ]
   item5:
     title: Framework Playwright com Python-BDD
     subtitle: Framework Playwright com Python-BDD
@@ -237,11 +246,11 @@ projects:
     github: https://github.com/RodrigoOBC/playwright_Behave_python
     tags: [ Playwright, Python, Behave ]
   item6:
-    title: Api Star Wars em Flask
-    subtitle: Api Star Wars em Flask
+    title: Framework Playwright com Cucumber
+    subtitle: Framework Playwright com Cucumber
     description: ""
-    github: https://github.com/RodrigoOBC/desafio_b2w
-    tags: [ Flask, Python, Postman ]
+    github: https://github.com/RodrigoOBC/PlaywrightFrameworkCucumber
+    tags: [ Nodejs, Playwright, Cucumber ]
   item7:
     title: Framework Ruby com Capybara-BDD
     subtitle: Framework Ruby com Capybara-BDD
