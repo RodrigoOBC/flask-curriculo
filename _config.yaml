@@ -180,6 +180,9 @@ Artigos:
   item1:
     link: https://medium.com/@rodrigo.oliveiracabral/teste-de-integra%C3%A7%C3%A3o-com-k6-10a5f3912e75
     name: Teste de Integração com k6
+  item2:
+    link: https://doi.org/10.29327/4467215
+    name: Trabalho de Conclusão de Curso da Pós-Graduação em Ciência de Dados e Big Data
 # Talks and workshops section
 workshops:
   item0:
