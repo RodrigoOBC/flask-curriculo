@@ -20,10 +20,44 @@ social:
 # Experience section
 experience:
   item0:
+    position: Tech Lead QA
+    company: Radix Engenharia e Software
+    from: April 2023
+    to: Present
+    description: >
+      Providing leadership to the QA team and ensuring the team's productivity and quality standards;
+      Automating multi-language API test cases using frameworks such as K6 to improve efficiency and accuracy;
+      Automating test cases written in BDD using Gauge to ensure faster execution and quicker feedback loops;
+      Automating web-based test cases using Selenium and programming languages such as Python or NodeJS to ensure compatibility across different browsers and platforms;
+      Automating web-based test cases using Playwright and programming languages such as Python or NodeJS to improve testing efficiency;
+      Automating Contract API tests using PACT-JS to ensure API integration quality;
+      Automating web-based test cases using Cypress, Protractor, and Puppeteer to improve testing coverage and reliability;
+      Composing test plans and test cases to validate the functionality of our software products;
+      Executing test scripts to identify defects and ensure compliance with requirements;
+      Creating test cases using Behavior-Driven Development (BDD) methodologies to ensure clear communication and alignment with stakeholders;
+    link: http://www.radixeng.com.br/
+  item1:
+    position: Software QA Sr.
+    company: Radix Engenharia e Software
+    from: November 2022
+    to: April 2023
+    description: >
+      Providing leadership to the QA team and ensuring the team's productivity and quality standards;
+      Automating multi-language API test cases using frameworks such as K6 to improve efficiency and accuracy;
+      Automating test cases written in BDD using Gauge to ensure faster execution and quicker feedback loops;
+      Automating web-based test cases using Selenium and programming languages such as Python or NodeJS to ensure compatibility across different browsers and platforms;
+      Automating web-based test cases using Playwright and programming languages such as Python or NodeJS to improve testing efficiency;
+      Automating Contract API tests using PACT-JS to ensure API integration quality;
+      Automating web-based test cases using Cypress, Protractor, and Puppeteer to improve testing coverage and reliability;
+      Composing test plans and test cases to validate the functionality of our software products;
+      Executing test scripts to identify defects and ensure compliance with requirements;
+      Creating test cases using Behavior-Driven Development (BDD) methodologies to ensure clear communication and alignment with stakeholders;
+    link: http://www.radixeng.com.br/
+  item2:
     position: Software QA Pl
     company: Radix Engenharia e Software
     from: January 2022
-    to: Present
+    to: November 2022
     description: >
       Composition of "Test Cases";
       Composition of "Test Plans";
@@ -35,7 +69,7 @@ experience:
       Automation with Cypress, Protractor, Playwright, and Puppeteer;
       Technical mentoring achievements.
     link: http://www.radixeng.com.br/
-  item1:
+  item3:
     position: Software QA Jr
     company: Radix Engenharia e Software
     from: January 2020
@@ -50,7 +84,7 @@ experience:
       Automation with Selenium and Python or NodeJS;
       Automation with Cypress, Protractor, Playwright, and Puppeteer;
     link: http://www.radixeng.com.br/
-  item2:
+  item4:
     position: Software QA Intern
     company: Radix Engenharia e Software.
     from: March 2019
@@ -62,7 +96,7 @@ experience:
       Automation of multi-language API cases ;
       Automation of test cases written in BDD with Gauge;
     link: http://www.radixeng.com.br/
-  item3:
+  item5:
     position: Data Science Intern
     company: Mobi2Buy.
     from: January 2018
@@ -149,9 +183,6 @@ tools:
   item16:
     img: xbox-r
     title: Rscript
-  item17:
-    img: selenium
-    title: Selenium
 
 
 extra_skills:
